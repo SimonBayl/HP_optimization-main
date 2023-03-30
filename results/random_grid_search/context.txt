@@ -1,0 +1,5 @@
+learning rate : 10^-n with n in [-4, 0]
+momentum : 0 to 1 with step of 0.1
+Number_of_hidden_layers : 3
+Number_of_nodes_per_layer : [x,y,z,10] with x,y,z in {16,32,64}
+

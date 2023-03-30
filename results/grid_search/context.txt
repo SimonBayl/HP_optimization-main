@@ -1,0 +1,18 @@
+learning rate : 10^-n with n in [-4, 0]
+momentum : 0 to 1 with step of 0.1
+Number_of_hidden_layers : 3
+Number_of_nodes_per_layer : [x,y,z,10] with x,y,z in {16,32,64}
+
+
+epochs : 
+Learning rate : 0.1
+Momentum : 0 
+Number of hidden layers : 3
+Number of nodes per layer : [64, 16, 32, 10]]   
+
+epochs2 : 
+
+Learning rate : 0.0001
+Momentum :0.8
+Number of hidden layers : 3
+Number of nodes per layer : [16, 64, 32, 10]
